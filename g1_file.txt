@@ -1,0 +1,1 @@
+it is the text file1 inside the branch g1.
